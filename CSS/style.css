@@ -1,0 +1,15 @@
+h1 {
+    background-color: #faebd7;
+}
+
+h2 {
+    background-color: rgb(0, 0, 255);
+}
+
+h3 {
+    background-color: hsl(0, 100%, 50%);
+}
+
+h4 {
+    background-color: hwb(120 0% 50%);
+}
