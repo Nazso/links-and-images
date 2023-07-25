@@ -13,3 +13,24 @@ h3 {
 h4 {
     background-color: hwb(120 0% 50%);
 }
+
+img {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+p {
+    /* Background color
+    Text color
+    Font family
+    Font size
+    Borders
+    Rounded corners on images */
+    background-color: aquamarine;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 5px;
+}
